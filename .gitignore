@@ -1,0 +1,3 @@
+*.pyc
+mattermost_auth.egg-info/
+
